@@ -4,6 +4,7 @@
 2. [Contents](#contents)
 3. [Functionalities](#functionalities)
 4. [Technologies](#technologies)
+5. [GitLink](#gitlink)
 
 ## Introduction
 
@@ -46,3 +47,8 @@ A list of technologies used within the project:
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+
+## GitLink
+
+***
+[Git Link](https://vipinmamidi.github.io/)
